@@ -1,5 +1,7 @@
 # landing-page
 
+Project 2
+
 This project is about making a single web page. What have I learned:
 
 - Cascading style sheets
